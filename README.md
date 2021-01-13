@@ -1,5 +1,7 @@
 Rougecoin and Wallet/App TBA 2022...
-![LOGO NEW](LOGO NEW.png)
+<p align="center">
+  <img src="LOGO NEW.png" width="350" title="hover text">
+</p>
 
 update v1.1
 - cleaned src files
