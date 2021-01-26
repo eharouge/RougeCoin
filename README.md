@@ -1,4 +1,4 @@
-Rougecoin and Wallet/App TBA 2022...
+Rougecoin now trading on Uniswap v2 protocol
 <p align="center">
   <img src="LOGO NEW.png" width="350" title="hover text">
 </p>
